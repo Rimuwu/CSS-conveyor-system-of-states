@@ -2,7 +2,6 @@ from aiogram.fsm.state import State, StatesGroup
 
 class GeneralStates(StatesGroup):
     zero = State() # Состояние по умолчанию
-    ChooseDino = State() # Состояние для выбора динозавра
     ChooseInt = State() # Состояние для ввода числа
     ChooseString = State() # Состояние для ввода текста
     ChooseConfirm = State() # Состояние для подтверждения (да / нет)
