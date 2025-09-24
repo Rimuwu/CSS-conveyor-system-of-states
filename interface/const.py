@@ -1,0 +1,3 @@
+BACK_BUTTON = "◀"
+FORWARD_BUTTON = "▶"
+CANCEL_BUTTON = "❌ Отмена"
