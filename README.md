@@ -1,4 +1,4 @@
-# ConveyorSystem-of-States - Конвейерная Система Состояний
+# Css-conveyor system of states - Конвейерная Система Состояний
 
 ### ⌛ Зависимость
 
